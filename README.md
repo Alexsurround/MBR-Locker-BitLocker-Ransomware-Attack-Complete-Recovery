@@ -23,7 +23,7 @@
 ## 🔴 Visual Evidence
 
 ### Attack Screen
-![Ransom Screen](images/photo_2025-10-05_11-43-27.jpg)
+![Ransom Screen](img/photo_2025-10-05_11-43-27.jpg)
 *Red screen displayed at boot demanding ransom via Telegram*
 
 ### BitLocker Status
