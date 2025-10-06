@@ -52,8 +52,6 @@ A: Only if files are corrupted. In this case, ~3% needed recovery.
 **Q: Can I do this without technical skills?**
 A: Yes, follow step-by-step commands. Copy-paste carefully.
 
-**Q: What if I don't have Live CD?**
-A: Download Sergei Strelec WinPE: https://sergeistrelec.ru/
 
 ## Prevention Questions
 
